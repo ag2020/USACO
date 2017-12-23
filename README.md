@@ -1,2 +1,13 @@
 # USACO
-This repository contains my JAVA solutions to the USACO training pages problems, as well as select contest problems.
+
+## Overview
+This repository contains my JAVA solutions to the USACO training pages problems, as well as select contest problems. Every one of my solutions have passed all of their respective test cases.
+
+## Authors
+@awesomeag is the sole author of all files in this repository.
+
+## License
+This repository is licensed under the **_MIT License_** - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Acknowledgments
+A special thanks to [**_USACO_**](www.usaco.org) for providing free algorithmic [contests](http://usaco.org/index.php?page=contests) and [training pages](http://train.usaco.org/usacogate) for everyone.
