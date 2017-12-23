@@ -10,4 +10,4 @@ This repository contains my JAVA solutions to the USACO training pages problems,
 This repository is licensed under the **_MIT License_** - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-A special thanks to [**USACO**](www.usaco.org) for providing free algorithmic [contests](http://usaco.org/index.php?page=contests) and [training pages](http://train.usaco.org/usacogate) for everyone.
+A special thanks to [**USACO**](http://usaco.org/index.php) for providing free algorithmic [contests](http://usaco.org/index.php?page=contests) and [training pages](http://train.usaco.org/usacogate) for everyone.
