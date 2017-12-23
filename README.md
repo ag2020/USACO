@@ -4,7 +4,7 @@
 This repository contains my JAVA solutions to the USACO training pages problems, as well as select contest problems. Every one of my solutions have passed all of their respective test cases.
 
 ## Authors
-@awesomeag is the sole author of all files in this repository.
+@agawesome is the sole author of all files in this repository.
 
 ## License
 This repository is licensed under the **_MIT License_** - see the [LICENSE.md](LICENSE.md) file for details.
