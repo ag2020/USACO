@@ -1,7 +1,7 @@
 # USACO
 
 ## Overview
-This repository contains my JAVA solutions to the USACO training pages problems, as well as select contest problems. Every one of my solutions have passed all of their respective test cases.
+This repository contains my solutions to the USACO training pages problems, as well as select contest problems. Every one of my solutions have passed all of their respective test cases.
 
 ## Authors
 **@agawesome** is the sole author of all files in this repository.
