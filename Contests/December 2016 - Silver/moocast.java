@@ -23,22 +23,18 @@ public class moocast {
 			location.add(d);
 			power.add(Integer.parseInt(st.nextToken()));
 		}
-	//	System.out.println("powers are " + power);
 		int answers = 0;
 		
 		for (int i = 0; i < n; i++) {
 			reached.clear();
 			done.clear();
-			System.out.println("called from main");
 			search(location.get(i).get(0), location.get(i).get(1), i, 0);
-			System.out.println("size of reach is " + reached.size());
 			if (reached.size() > answers) {
 				answers = reached.size();
 			}
 		}
 		
 		pw.println(answers);
-		System.out.println(answers);
 		pw.close();
 	}
 	
@@ -46,9 +42,6 @@ public class moocast {
 		ArrayList<Integer> e = new ArrayList<Integer>();
 		e.add(x);
 		e.add(y);
-		
-		System.out.println("input is " + e);
-		System.out.println(!(done.contains(e)));
 		if (!(done.contains(e))) {
 			done.add(e);
 			
@@ -65,8 +58,6 @@ public class moocast {
 					if (!(reached.contains(t))) {
 						reached.add(t);
 					}
-					System.out.println("a = " + a + ", b = " + b + ", i = " + i + ", num = " + num);
-					System.out.println("called from inside the method");
 					search(a, b, i, num + 1);
 				}
 			}
